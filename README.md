@@ -1,1 +1,1 @@
-# try-JATS
+# try
